@@ -25,4 +25,38 @@ Attributes:
 Visualization tool used- Tableau
 
 
+Analysis Questions - 
+
+Vis 1 - Identify the cities in India from where air quality data was recorded?
+
+Vis 2 - Identify the average pollutant level at each state in India.
+
+Vis 3 - Identify the average pollutant level at each location type in India.
+
+Vis 4 - Identify which region is most polluted in India
+
+Vis 5 - Identify and compare trend of average of pollutant levels from 2003 to 2015.
+
+Vis 6 - Compare the average of So2 levels between the years 2015 and 2014 for each city in India.
+
+Vis 7 - Identify the city which is most polluted with average of No2 levels in the year 2015 in India.
+
+Vis 8 - Identify the state which is least polluted with RSPM in the year 2015 in India.
+
+Vis 9 - Identify the city which is most polluted with SPM in India.
+
+Vis 10 - Identify the top 5 states polluted with both So2 and No2 from the year 2011 to 2015 in India.
+
+Vis 11 - Differentiate the states in India based on safe and unsafe levels of RSPM.
+
+Vis 12 - Predict the future of pollutant levels based on the data available to us.
+
+Dashboard - 1: Current and future analysis of air quality in India.
+
+Dashboard – 2: Pollution analysis based on location.
+
+Story – 1: Air Quality in India
+
+Please refer to project report to know more information about the project.
+
 
