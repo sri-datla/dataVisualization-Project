@@ -57,6 +57,6 @@ Dashboard – 2: Pollution analysis based on location.
 
 Story – 1: Air Quality in India
 
-Please refer to project report to know more information about the project.
+Please refer project report to know more information about the project.
 
 
